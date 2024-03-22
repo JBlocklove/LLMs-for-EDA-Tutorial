@@ -16,6 +16,12 @@ Full GitHub Repo: https://github.com/shailja-thakur/AutoChip
 
 ## VeriGen
 
+### Slides
+https://docs.google.com/presentation/d/1YkYKaaPcDMpd8W5t-eU0Ay_4NxClxU_J5_VSo-iDZ10/edit?usp=sharing
+
+### Colab Example
+https://colab.research.google.com/drive/1ej8KTGtwqz3k4ZKDTeprmhELZinbEIdQ?usp=sharing
+
 ## LLM Bug Fixing
 
 ## Additional Reading
