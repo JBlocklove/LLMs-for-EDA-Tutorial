@@ -24,4 +24,10 @@ https://colab.research.google.com/drive/1ej8KTGtwqz3k4ZKDTeprmhELZinbEIdQ?usp=sh
 
 ## LLM Bug Fixing
 
+### Slides
+https://tamucs-my.sharepoint.com/:p:/g/personal/gohil_vasudev_tamu_edu/EZLbyLfKxoZGk7YHE5QNPrUB_TlHbohVJ_FvL_GI__oLmw?e=Rpv4Wz
+
+### Colab Notebook
+https://colab.research.google.com/drive/1TN7H1dIH1USrMP5EP5uwm987lLbFmHkq?usp=sharing
+
 ## Additional Reading
