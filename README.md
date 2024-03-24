@@ -1,18 +1,14 @@
 # LLMs for EDA Tutorial Resources
+For the DATE 2024 tutorial: [Using Generative AI for Next-generation EDA](https://www.date-conference.com/embedded-tutorial/et01)
 
+Here we provide resources from the tutorial itself, as well as additional resources related to the topics discussed.
 
-## HDL Generation with Feedback
-Slides: https://docs.google.com/presentation/d/11LRoS_cXT9edCsGC3phwMg8PaxwQasIfkjv0TKSbjOY/edit?usp=sharing
+## Generating HDL with Feedback Loops
+### Slides
+https://docs.google.com/presentation/d/11LRoS_cXT9edCsGC3phwMg8PaxwQasIfkjv0TKSbjOY/edit?usp=sharing
 
-### ChipChat
-https://arxiv.org/abs/2305.13243
-
-### AutoChip
-https://arxiv.org/abs/2311.04887
-
-Colab Notebook with Examples: https://colab.research.google.com/drive/1Va3Jp5zwr4RW-zrCHIHQvJ8pmhN-EFpD?usp=sharing
-
-Full GitHub Repo: https://github.com/shailja-thakur/AutoChip
+### Exercies (Colab Notebook)
+https://colab.research.google.com/drive/1Va3Jp5zwr4RW-zrCHIHQvJ8pmhN-EFpD?usp=sharing
 
 ## VeriGen
 
@@ -31,3 +27,26 @@ https://tamucs-my.sharepoint.com/:p:/g/personal/gohil_vasudev_tamu_edu/EZLbyLfKx
 https://colab.research.google.com/drive/1TN7H1dIH1USrMP5EP5uwm987lLbFmHkq?usp=sharing
 
 ## Additional Reading
+### Generating Verilog
+#### DAVE (Deriving Automatically Verilog from English)
+- Paper: https://arxiv.org/abs/2009.01026
+#### LLMs for Automated Verilog Generation (VeriGen)
+- Paper: https://arxiv.org/abs/2212.11140
+- Repo: https://github.com/shailja-thakur/VGen
+#### ChipChat
+- Paper: https://arxiv.org/abs/2305.13243
+#### AutoChip
+- Paper: https://arxiv.org/abs/2311.04887
+- Repo: https://github.com/shailja-thakur/AutoChip
+### Security Analysis of LLM Generated Code
+#### Asleep at the Keyboard
+- Paper: https://arxiv.org/abs/2108.09293
+### LLMs for Bug Detection & Repair
+#### Zero-shot Vulnerability Repair
+- Paper: https://arxiv.org/abs/2112.02125
+#### Fixing Hardware Bugs
+- Paper: https://arxiv.org/abs/2302.01215
+#### Hardware Assertions
+- Paper: https://arxiv.org/abs/2306.14027
+#### Security Bug Finding
+- Paper: https://arxiv.org/abs/2306.12643
