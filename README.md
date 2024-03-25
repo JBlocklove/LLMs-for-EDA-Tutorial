@@ -38,6 +38,8 @@ https://colab.research.google.com/drive/1TN7H1dIH1USrMP5EP5uwm987lLbFmHkq?usp=sh
 #### AutoChip
 - Paper: https://arxiv.org/abs/2311.04887
 - Repo: https://github.com/shailja-thakur/AutoChip
+#### LLM-based High-Quality RTL Code Generation Using MCTS
+- Paper: https://arxiv.org/abs/2402.03289
 ### Security Analysis of LLM Generated Code
 #### Asleep at the Keyboard
 - Paper: https://arxiv.org/abs/2108.09293
