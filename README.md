@@ -9,7 +9,7 @@ Here we provide resources from the tutorial itself, as well as additional resour
 ### Slides
 https://docs.google.com/presentation/d/11LRoS_cXT9edCsGC3phwMg8PaxwQasIfkjv0TKSbjOY/edit?usp=sharing
 
-### Exercies (Colab Notebook)
+### Colab Notebook
 https://colab.research.google.com/drive/1Va3Jp5zwr4RW-zrCHIHQvJ8pmhN-EFpD?usp=sharing
 
 ## VeriGen
@@ -17,7 +17,7 @@ https://colab.research.google.com/drive/1Va3Jp5zwr4RW-zrCHIHQvJ8pmhN-EFpD?usp=sh
 ### Slides
 https://docs.google.com/presentation/d/1YkYKaaPcDMpd8W5t-eU0Ay_4NxClxU_J5_VSo-iDZ10/edit?usp=sharing
 
-### Colab Example
+### Colab Notebook
 https://colab.research.google.com/drive/1ej8KTGtwqz3k4ZKDTeprmhELZinbEIdQ?usp=sharing
 
 ## LLM for Bug Detection
