@@ -1,4 +1,6 @@
 # LLMs for EDA Tutorial Resources
+
+## 📅 26 March, 2024 - 16:30: Room S1+2
 For the DATE 2024 tutorial: [Using Generative AI for Next-generation EDA](https://www.date-conference.com/embedded-tutorial/et01)
 
 Here we provide resources from the tutorial itself, as well as additional resources related to the topics discussed.
