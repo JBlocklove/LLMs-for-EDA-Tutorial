@@ -26,7 +26,7 @@ https://colab.research.google.com/drive/1ej8KTGtwqz3k4ZKDTeprmhELZinbEIdQ?usp=sh
 https://tamucs-my.sharepoint.com/:p:/g/personal/gohil_vasudev_tamu_edu/EZLbyLfKxoZGk7YHE5QNPrUB_TlHbohVJ_FvL_GI__oLmw?e=Rpv4Wz
 
 ### Colab Notebook
-https://colab.research.google.com/drive/1TN7H1dIH1USrMP5EP5uwm987lLbFmHkq?usp=sharing
+https://colab.research.google.com/drive/1NJKfDE5GxWru92vUK4k-kVncMK3Znufx?usp=sharing
 
 ## Additional Reading
 ### Generating Verilog
