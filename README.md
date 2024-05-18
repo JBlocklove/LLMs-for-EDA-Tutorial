@@ -9,7 +9,7 @@ Here we provide resources from the tutorial itself, as well as additional resour
 
 ### [Colab Notebook](https://colab.research.google.com/drive/1dOf4jk9bw6djduo6VWqBNletUcAxIFFz?usp=sharing)
 
-## LLM for Bug Detection
+## LLMs for Security Assertion Generation
 ### [Slides](https://tamucs-my.sharepoint.com/:p:/g/personal/gohil_vasudev_tamu_edu/EZLbyLfKxoZGk7YHE5QNPrUB_TlHbohVJ_FvL_GI__oLmw?e=Rpv4Wz)
 
 ### [Colab Notebook](https://colab.research.google.com/drive/1NJKfDE5GxWru92vUK4k-kVncMK3Znufx?usp=sharing)

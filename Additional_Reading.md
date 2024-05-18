@@ -23,4 +23,6 @@
 - Paper: https://arxiv.org/abs/2306.14027
 #### Security Bug Finding
 - Paper: https://arxiv.org/abs/2306.12643
-
+### LLM Metric Frameworks
+#### CreativEval: Evaluating Creativity of LLM-Based Hardware Code Generation
+- Paper: https://arxiv.org/abs/2404.08806
