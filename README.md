@@ -19,7 +19,7 @@ https://docs.google.com/presentation/d/1YkYKaaPcDMpd8W5t-eU0Ay_4NxClxU_J5_VSo-iD
 ### Colab Notebook
 https://colab.research.google.com/drive/1ej8KTGtwqz3k4ZKDTeprmhELZinbEIdQ?usp=sharing
 
-## LLM for Bug Detection
+## LLM for Security Assertion Generation
 
 ### Slides
 https://tamucs-my.sharepoint.com/:p:/g/personal/gohil_vasudev_tamu_edu/EZLbyLfKxoZGk7YHE5QNPrUB_TlHbohVJ_FvL_GI__oLmw?e=Rpv4Wz
