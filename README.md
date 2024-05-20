@@ -12,7 +12,7 @@ Here we provide resources from the tutorial itself, as well as additional resour
 ## LLMs for Security Assertion Generation
 ### [Slides](https://tamucs-my.sharepoint.com/:p:/g/personal/gohil_vasudev_tamu_edu/EZLbyLfKxoZGk7YHE5QNPrUB_TlHbohVJ_FvL_GI__oLmw?e=Rpv4Wz)
 
-### [Colab Notebook](https://colab.research.google.com/drive/1NJKfDE5GxWru92vUK4k-kVncMK3Znufx?usp=sharing)
+### [Colab Notebook](https://colab.research.google.com/drive/1OG5nmWKTvbsvfmMrlIy3L-0U1wzWOtkS?usp=sharing)
 
 ## Cybersecurity for LLM Generated Hardware
 ### [Slides](./presentations/HLSforSecurity-TSS-ETS-May-2024.pdf)
