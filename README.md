@@ -13,6 +13,11 @@ Here we provide resources from the tutorial itself, as well as additional resour
 ### [Slides](https://tamucs-my.sharepoint.com/:p:/g/personal/matthewdelorenzo_tamu_edu/EfqK9SwXn2ZCoLVMgizf5w0Bd5QH_ptqge_jiKfIaWI8sg?e=QcG4Bi)
 ### [Colab Notebook](https://colab.research.google.com/drive/1OG5nmWKTvbsvfmMrlIy3L-0U1wzWOtkS?usp=sharing)
 
+## LLMs for Plagiarizing Designs
+### [Slides](https://tamucs-my.sharepoint.com/:p:/g/personal/gohil_vasudev_tamu_edu/ERe3E4pNZhdNqAaGqhNFlKoBDhUpL845YyaAnqfLOeS6UA?e=WmWhpb)
+### [Video](https://youtu.be/j2uD0K0V2lU)
+### [Colab Notebook](https://colab.research.google.com/drive/1_i6SGbxUX2gCB3KiRV5x-XKUExq020eP?usp=sharing)
+
 ## Cybersecurity for LLM Generated Hardware
 ### [Slides](./presentations/HLSforSecurity-TSS-ETS-May-2024.pdf)
 
