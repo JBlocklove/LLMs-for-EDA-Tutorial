@@ -1,0 +1,14 @@
+{
+	"general": {
+        "prompt": "./2013_q2afsm.sv",
+        "name": "top_module",
+        "testbench": "./2013_q2afsm_tb.sv",
+		"model_family": "ChatGPT",
+		"model_id": "gpt-4o-mini",
+		"num_candidates": 5,
+		"iterations": 5,
+        "outdir": "outputs_arbiter",
+        "log": "log.txt",
+		"ensemble": false
+    }
+}
