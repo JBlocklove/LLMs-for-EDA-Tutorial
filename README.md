@@ -1,13 +1,13 @@
-# LLMs for EDA Tutorial Resources - Test Spring School
+# LLMs for EDA Tutorial Resources - ESWEEK
 
-## 📅 20 May, 2024: 14:00 - 18:30, Break from 16:00 - 16:30
-### Title: Security of Generative AI and Generative AI for Security
+## 📅 29 September, 2024: 13:30 - 17:00
+### Title: Generative AI for Next-Generation EDA Tool-flows
 Here we provide resources from the tutorial itself, as well as additional resources related to the topics discussed.
 
-## Generating HDL with Feedback Loops
-### [Slides](https://docs.google.com/presentation/d/12XUBltMFyWy6pKT7H3qHiMxyo2AkleDOV8IGHdYT_bs/edit?usp=sharing)
+## Automating HDL Generation with Feedback
+### [Slides](https://docs.google.com/presentation/d/1XAnNGGQOPqK3F55zV5yqICy9Hiz-S2eCclCLgaAe1H8/edit?usp=sharing)
 
-### [Colab Notebook](https://colab.research.google.com/drive/1dOf4jk9bw6djduo6VWqBNletUcAxIFFz?usp=sharing)
+### [Colab Notebook](https://colab.research.google.com/drive/1vaJXgKArX4ZkfexdWRBGRZGNtqiBFwJJ?usp=drive_link)
 
 ## LLMs for Security Assertion Generation
 ### [Slides](https://tamucs-my.sharepoint.com/:p:/g/personal/matthewdelorenzo_tamu_edu/EfqK9SwXn2ZCoLVMgizf5w0Bd5QH_ptqge_jiKfIaWI8sg?e=QcG4Bi)
