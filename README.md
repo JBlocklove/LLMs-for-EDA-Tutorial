@@ -14,7 +14,7 @@ Here we provide resources from the tutorial itself, as well as additional resour
 ### [Colab Notebook](https://colab.research.google.com/drive/1OG5nmWKTvbsvfmMrlIy3L-0U1wzWOtkS?usp=sharing)
 
 ## LLMs for Plagiarizing Designs
-### [Slides](https://tamucs-my.sharepoint.com/:p:/g/personal/gohil_vasudev_tamu_edu/ERe3E4pNZhdNqAaGqhNFlKoBDhUpL845YyaAnqfLOeS6UA?e=WmWhpb)
+### [Slides](https://tamucs-my.sharepoint.com/:p:/g/personal/matthewdelorenzo_tamu_edu/EfmzMhJpxe9Lr66GT7lUpi0BmibQMx8M-5M7vq3BiSA5Ag?e=FpDSke)
 ### [Video](https://youtu.be/j2uD0K0V2lU)
 ### [Colab Notebook](https://colab.research.google.com/drive/1V-i_pCV9cRihFHWmugsHGsdlbcYKmgSG?usp=sharing)
 
