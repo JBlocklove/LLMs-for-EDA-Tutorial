@@ -1,0 +1,14 @@
+{
+	"general": {
+        "prompt": "./rule90.sv",
+        "name": "top_module",
+        "testbench": "./rule90_tb.sv",
+		"model_family": "ChatGPT",
+		"model_id": "gpt-4o-mini",
+		"num_candidates": 5,
+		"iterations": 5,
+        "outdir": "outputs_rule90",
+        "log": "log.txt",
+		"ensemble": false
+    }
+}
