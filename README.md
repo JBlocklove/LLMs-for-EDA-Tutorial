@@ -15,5 +15,5 @@ Here we provide resources from the tutorial itself, as well as additional resour
 ## Previous Editions
 [DATE 2024](./DATE_2024.md)
 [TSS 2024](./TSS_2024.md)
-[ETS 2024](./ETS_2024.md)
+[TSS @ ETS 2024](./TSS_2024.md)
 [ETS 2025](./ETS_2025.md)
