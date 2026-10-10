@@ -1,13 +1,14 @@
-# LLMs for EDA Tutorial Resources - ETS
+# LLMs for EDA Tutorial Resources - BCICTS 2026
 
-## 📅 29 May, 2025: 12:00 - 12:30
-### Title: Generative AI for Next-Generation EDA Tool-flows
+## 📅 11 October, 2026: 9:45 - 10:45
+### Title: Large Language Models for Digital Hardware Design
 Here we provide resources from the tutorial itself, as well as additional resources related to the topics discussed.
 
 ## Automating HDL Generation with Feedback
-### [Slides](https://docs.google.com/presentation/d/1_KJpriOJrvwpnHpMITuiJwAn-vlXv9lG3SL9Mevi97E/edit?usp=sharing)
+### [Slides](https://docs.google.com/presentation/d/1dpsMZwHNZKRvYpqMeEvGtpkgwzKCuPfzlqhOXLlQnAc/edit?usp=sharing)
+### [Slides (Updated)](https://docs.google.com/presentation/d/1CmvIEAtq8OzM-NosdYeYPII0fxzVLL4lEPgMzYFspZg/edit?usp=sharing)
 
-### [Colab Notebook](https://colab.research.google.com/drive/1lGHeeYxDo1exTJ334-XN0oiwg7ZP9ewa?usp=sharing)
+### [Colab Notebook](https://colab.research.google.com/drive/1aeN-3dMus_f6dPaWZY4B1kTN0wuDzeJZ?usp=sharing)
 
 ## [Additional Reading](./Additional_Reading.md)
 
@@ -15,3 +16,4 @@ Here we provide resources from the tutorial itself, as well as additional resour
 [DATE 2024](./DATE_2024.md)
 [TSS 2024](./TSS_2024.md)
 [ETS 2024](./ETS_2024.md)
+[ETS 2025](./ETS_2025.md)
